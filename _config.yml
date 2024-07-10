@@ -21,7 +21,7 @@
 title: 개발자 유재원
 email: rktwodnjs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  프론트엔드, 개발자, front-end
+  프론트엔드 개발자
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jaewonyootime.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
